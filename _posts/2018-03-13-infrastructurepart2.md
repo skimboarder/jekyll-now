@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bug Reporting
+title: Infrastructure Part 2
 ---
 
 ### LitReivew - Sofware Infrastructure ###
